@@ -1,0 +1,40 @@
+
+# ignore mac .DS_Store 
+.DS_Store 
+*/.DS_Store
+
+# ignore .vscode
+.vscode
+
+# ignore dataset 
+Gen1_200/
+Gen2_200/
+rawImgs_200/
+
+
+
+
+*.log
+*.out
+# *.csv
+*.xlsx
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+*__pycache__/
+# *trained_models/
+
+*.pt
+*.pth
+
+*.err
+
+*trainingFunc_ResNet.py
+*datasetCSVPrep_scenario.py
+
+
+
+
