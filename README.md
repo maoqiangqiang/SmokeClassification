@@ -164,7 +164,7 @@ Below is the `data` folder tree structure:
   - `test_testing_ResNet_Scenario_Shuffle.py` is to test trained smoke classification model (not in DDP mode).
 
 
-
+- `trainedModels` folder contains the trained models. The trained models are saved in the `*.pth` format. You can access the dataset via Google Drive.
 
 ## Examples 
 The examples can be implemented in cluster server via:
