@@ -1,8 +1,7 @@
 # Shuffled Video-based Smoke Classification Using Virtual Sample Augmentation and Transfer Learning 
-Draft version for reviewing only, all rights reserved. 
 
-This repository corresponds to our submitted paper entitled
-"*Title will be posted after the review process.*".
+This repository corresponds to our study entitled
+"*Visual process monitoring of biomass conversion reactors using transfer learning and generative AI.*".
 
 
 <div align="center">
@@ -27,10 +26,6 @@ This repository corresponds to our submitted paper entitled
 
 ## Data Information
 The data comprises both real images captured from field biomass-to-biochar conversion experiments and virtual images. Additional details about the dataset can be found in our paper.
-
-You can access the dataset via Google Drive.
-
-<!-- [Google Drive](https://drive.google.com/drive/folders/1WPARUh0fBM3SAkz8YIzA2twdgZbQ96do?usp=drive_link).  -->
 
 The images are stored in the `data` folder. The "Normal" (Non-smoke) and "Smoke" subfolders are the two classes of images. 
 
