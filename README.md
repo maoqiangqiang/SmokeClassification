@@ -1,7 +1,7 @@
 # Shuffled Video-based Smoke Classification Using Virtual Sample Augmentation and Transfer Learning 
 
 This repository corresponds to our study entitled
-"*Visual process monitoring of biomass conversion reactors using transfer learning and generative AI.*".
+"*Visual process monitoring of biomass conversion reactors using transfer learning and generative AI.*". The details of this study is available at https://doi.org/10.1016/j.compchemeng.2025.109464. 
 
 
 <div align="center">
